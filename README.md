@@ -7,4 +7,4 @@ Steps involved in chatbot
 3. model building
 4. predict the model(GUI)
 5. Running the chatbot
-<img src="https://github.com/Jyothif/mini_chatbot/blob/main/images/chatbot.PNG">
+<img src="https://github.com/Jyothif/mini_chatbot/blob/main/images/chatbot.PNG",class='center'>
